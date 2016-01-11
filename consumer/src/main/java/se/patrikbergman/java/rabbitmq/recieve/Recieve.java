@@ -1,10 +1,9 @@
 package se.patrikbergman.java.rabbitmq.recieve;
 
 import com.rabbitmq.client.*;
-
 import java.io.IOException;
 
-public class Recieve {
+class Recieve {
 
     private final static String QUEUE_NAME = "hello";
 

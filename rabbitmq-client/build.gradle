@@ -1,6 +1,0 @@
-group 'se.patrikbergman.java.ampq'
-version '1.0-SNAPSHOT'
-
-dependencies {
-    compile 'com.rabbitmq:amqp-client:3.5.6'
-}

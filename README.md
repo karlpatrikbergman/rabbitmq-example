@@ -3,7 +3,6 @@ Simple rabbitmq example with rabbitmq on Docker
 Prerequisites:
 - Docker installed
 
-
 1. Run rabbitmq on docker
 ./run-rabbitmq-broker.sh
 

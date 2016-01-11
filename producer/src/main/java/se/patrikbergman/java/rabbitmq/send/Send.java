@@ -1,9 +1,6 @@
 package se.patrikbergman.java.rabbitmq.send;
 
-import com.rabbitmq.client.ConnectionFactory;
-import com.rabbitmq.client.Connection;
-import com.rabbitmq.client.Channel;
-
+import com.rabbitmq.client.*;
 import java.util.concurrent.TimeoutException;
 
 class Send {

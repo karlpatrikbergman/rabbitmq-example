@@ -1,3 +1,4 @@
 rootProject.name = 'rabbitmq-example'
-include 'rabbitmq-client'
+include 'producer'
+include 'consumer'
 
